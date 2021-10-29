@@ -13,7 +13,7 @@ Javascript using the React framework
 ## Tech Stack
 Javascript, React, Bootstrap, Axios
 
-![alt_text](https://github.com/Aimireal/React-Pokedex/public/images/pokedex.png)
+![alt_text](https://github.com/Aimireal/React-Pokedex/blob/master/public/images/pokedex.png)
 
 ## To Run:
 (Will be added later, either will make a host website to run these off of or post individually to Vercel/Netlify)
