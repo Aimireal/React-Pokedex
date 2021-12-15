@@ -16,4 +16,5 @@ Javascript, React, Bootstrap, Axios
 ![alt_text](https://github.com/Aimireal/React-Pokedex/blob/master/public/images/pokedex.png)
 
 ## To Run:
-(Will be added later, either will make a host website to run these off of or post individually to Vercel/Netlify)
+Link in the about or go to [here](https://aimireal.github.io/React-Pokedex/) and click the logo
+This is a small issue which needed fixing but is pretty low priority
